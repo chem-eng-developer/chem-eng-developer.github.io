@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chem-eng-developer.github.io/sitemap.xml
